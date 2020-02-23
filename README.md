@@ -1,6 +1,8 @@
 # NBA_Regression_Predictions
 
 Predicts NBA game matchups using both teams' "Four Factors" described by Dean Oliver
+  https://www.basketball-reference.com/about/factors.html
+  
 
   Four Factors:
     
